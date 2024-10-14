@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+width: Fill (1,160px)px;
+height: Hug (718px)px;
+padding: 0px 0px 0px 0px;
+gap: 16px;
+opacity: 0px;
+background: #ADD8E6;
+}
+header{
+width: Fill (1,160px)px;
+height: Fixed (44px)px;
+padding: 8px 0px 0px 0px;
+gap: 10px;
+opacity: 0px;
+background: #3D3D3D;
+}
+
+
+
+.zagolov{
+width: 254px;
+height: 29px;
+gap: 0px;
+opacity: 0px;
+color: white;
+padding: 0px 0px 0px 8px;
+font-size: 20px;
+font-weight: 900;
+
+}
+
+
+
+h1{
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: left;
+font-variation-settings: 'slnt' 0;
+padding: 8px 0px 0px 8px;
+}
+
+.start0{
+font-family: Inter;
+font-weight: 700;
+line-height: 22.99px;
+text-align: left;
+font-variation-settings: 'slnt' 0;
+font-size: 17px;
+padding: 8px 0px 0px 8px;
+font-weight: 900;
+}
+
+.start{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+font-variation-settings: 'slnt' 0;
+padding: 8px 0px 0px 8px;
+
+}
+
+
+
+.start2{
+font-family: Inter;
+font-weight: 700;
+line-height: 22.99px;
+text-align: left;
+font-variation-settings: 'slnt' 0;
+font-size: 16px;
+}
+
+
+
+.block {
+width: Fill (1,144px)px;
+height: Hug (119px)px;
+padding: 8px 0px 0px 0px;
+gap: 8px;
+border-radius: 8px 8px 8px 8px;
+opacity: 0px;
+
+background: #00FFFF;
+padding: 8px 8px 8px 8px;
+margin-bottom: 10px;
+margin: 8px;
+margin-bottom: 10px;
+}
+.inner {
+margin: auto;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+font-variation-settings: 'slnt' 0;
+
+}
